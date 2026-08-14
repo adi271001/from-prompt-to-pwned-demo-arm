@@ -1,0 +1,4 @@
+# ARM64-friendly Python dependencies
+# These packages support native ARM64 Python installations.
+boto3>=1.42.0,<2
+streamlit==1.61.1
